@@ -142,11 +142,12 @@ def change_category_figures(industry, parameter, category):
 
 @callback(  # spec-pickers values are dependent on category dropdown. function to update options in spec picker
     Output('spec-picker', "options"),
+    Output('spec-picker', "value"),
     Input('category-picker', 'value'))
 def change_dropdown(category):
     labels = worksum[worksum.CategoryGroupID_Kenmerken == catdict[category]]['Kenmerken'].unique()
     speclabels = [{'label': k, 'value': k} for k in labels]
-    return speclabels
+    return speclabels, None
 
 
 @callback(  # function to highlight selected industry in industry table
