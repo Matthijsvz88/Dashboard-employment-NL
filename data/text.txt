@@ -1,0 +1,48 @@
+#### Samenvatting arbeidsmarkt Nederland
+
+In Nederland waren er in 2022 in totaal 8,869,000 banen verdeeld over alle werknemers van nederland.  Dit betekent een toename van 943,000 ten opzichte van 2011. Verder is het Arbeidsvolume, de hoeveelheid voltijds arbeidsjaren, met 787,000 gestegen van 5,926,000 naar 6,713,000. Aangezien in dezelfde tijd de bevolking in Nederland ook flink gegroeid is ligt het ook voor de hand dat er simpelweg meer banen zijn en dat er over heel Nederland genomen meer gewerkt wordt. We zien echter ook dat er een lichte toename is geweest in het gemiddeld aantal uren werk per jaar. Mensen werkten in 2022 gemiddeld 36 uur per jaar meer dan in 2011, het gemiddeld aantal uren werk per jaar steeg in die tijd van 1300 naar 1336. Deze stijging is vooral toe te schrijven aan de stijging in het aantal gewerkte uren door vrouwen, op dit onderwerp komen we later nog uitgebreider terug. Procentueel is er vooral een sterke toename geweest van het gemiddelde Jaarloon en Uurloon tussen 2011 en 2022, deze stegen met respectievelijk 27.25 en 22.65 procent.
+$
+
+#### Arbeidsmarkt per bedrijfstak
+
+In het staafdiagram hieronder zien we de verdeling van het aantal banen van verschillende bedrijfstakken in de Nederlandse arbeidsmarkt. De twee grootste bedrijfstakken die er onmiddelijk uitspringen zijn de Gezondheids- en Welzijnszorg en de Handel. Ongeveer een derde van het totale aantal werknemers in Nederland is werkzaam in een van deze bedrijfstakken. De gezondheidszorg is voor een zeer groot deel bemensd door vrouwen, van de in totaal 1,494,000 werknemers in de gezondheidszorg zijn 1,259,000, of 84% vrouw. Hiermee is de Gezondheids en Welzijnszorg de bedrijfstak met het grootste aandeel vrouwen. De grootste werkgever voor mannen is Handel, in de Handel zijn in totaal 781,000 mannen actief. Er zijn echter ook 678,000 vrouwen actief in de Handel, mannen zijn hier dus niet sterk oververtegenwoordigd. Het valt op dat er meerdere bedrijfstakken zijn waar mannen wel een sterke meerderheid vormen: Delfstoffenwinning (87.5%), Bouwnijverheid (87%) en Waterbedrijven en afvalbeheer (82%).
+$
+Aangezien het aantal banen over het geheeld in Nederland is toegenomen spreekt het voor zich dat de bedrijfstakken ook allemaal groeien. Om deze reden kunnen we een beter inzicht in de ontwikkeling van de arbeidsmarkt voor werknemers krijgen door te kijken naar de relatieve groei per bedrijfstak. Onderstaande tabel toont de ontwikkeling van het aantal banen in de verschillende bedrijfstakken als een percentage van het totale aantal banen. In 2011 werkte 10.6% van de werknemers in Nederland in de bedrijfstak Verhuur en overige zakelijke diensten. In 2022 was dit aantal met 1.42% toegenomen naar 12.02%. Dit is ook de sector die in die periode de sterkste relatieve groei heeft gehad, ook Horeca en Informatie en communicatie zijn relatief sterk gegroeid in diezelfde periode. Het valt op dat van de 19 bedrijfstakken er slechts 5 relatief gegroeid zijn en dat de overige 14 bedrijfstakken allemaal gekrompen zijn. De bedrijfstakken Industrie en Bouwnijverheid zijn relatief het meest  gekrompen, tussen 2011 en 2022 is het totale aandeel banen in Industrie met 0.91% gekrompen en voor Bouwnijverheid was de krimp 0.70%. Vooral de krimp in Bouwnijverheid is hierbij opvallend gezien de woningtekorten en stijgende huur- en koopprijzen voor woningen al langere tijd prominent op de politieke agenda staan.
+ 
+$
+
+#### Omvang Bedrijven
+
+Het grootste deel van de Nederlandse werknemers (61.7%) werkt voor bedrijven met 100 of meer werkzame personen. In totaal zijn er 5,469,000 banen in deze categorie bedrijven. Bedrijven met 10 tot 100 werkzame personen zijn verantwoordelijk voor 23.8% van de Banen in Nederland en ten slotte  worden 14.5% van de banen gegenereerd door bedrijven met 10 of minder werkzame personen. De hoogste uurlonen worden betaald in bedrijven met 100 of meer werknemers, bedrijven met 0 tot 10 werkzame personen betalen iets minder en de laaste uurlonen worden uitbetaald in bedrijven met 10 tot 100 werkzame personen. De verschillen in beloning en de stijging van salarissen tussen 2011 en 2022 zijn vrij consistent onafhankelijk van de bedrijfsomvang.
+
+$
+
+#### Sector Banen
+
+Banen in Nederland zijn onder te verdelen in drie verschillende sectoren: Particuliere bedrijven, Gesubsidieerde instellingen en Overheid. Veruit de grootste werkverschaffer van deze drie sectoren zijn de Particuliere Bedrijven, deze zijn verantwoordelijk voor 70.3% van alle banen in Nederland. De uurlonen voor Particuliere bedrijven en Gesubsidieerde instellingen zijn ongeveer gelijk terwijl de gemiddelde uurlonen in de sector Overheid aanzienlijk hoger zijn.
+  
+$
+
+#### Loon en arbeid man en vrouw
+
+Ongelijkheid in beloning voor mannen en vrouwen is  een veelbesproken onderwerp, nog altijd verdienen vrouwen minder salaris dan mannen. Het jaarloon van vrouwen ligt gemiddeld op 31,290 euro per jaar terwijl dat van mannen op 47,930 euro per jaar ligt. Dit betekent dat vrouwen jaarlijks zon 65% verdienen van mannen. Daarbij moet wel rekening gehouden worden dat vrouwen gemiddeld ook minder uur per jaar werken. In 2022 werkten vrouwen gemiddeld 1156 uur per jaar terwijl mannen gemiddeld 1506 uur werkten. Als we naar het uurloon kijken zien we al dat een de ongelijkheid in betaling flink afneemt, mannen verdienen gemiddeld 26.71 Euro per uur terwijl vrouwen 23.32 euro per uur verdienen. Hiermee ligt het vrouwelijk uurloon op 87% van dat van mannen, maar zelfs als we naar de uurlonen kijken blijft er dus een verschil van 13%.
+
+Het lijndiagram rechts toont de ontwikkeling van het aantal banen, het arbeidsvolume, de gemiddelde uren werk per jaar, het jaarloon en het uurloon van vrouwen. Het lijndiagram geeft de ontwikkeling van deze onderwerpen tussen 2011 en 2022 weer als percentage van mannen. Als voorbeeld: het lijndiagram toont dat in 2022 het aantal banen voor vrouwen op 94 procent zat van het aantal banen voor mannen, voor elke 100 mannen met een baan zijn er dus 94 vrouwen met een baan. Voor al de hierboven genoemde onderwerpen is er de afgelopen 10 jaar vooruitgang te zien, maar er is voor elk onderwerp nog altijd ongelijkheid.
+
+$
+
+Zoals benoemd werken vrouwen gemiddeld minder uur per jaar waardoor de jaarsalarissen ook aanzienlijk lager liggen voor vrouwen. Om toch een eerlijke vergelijking te maken tussen het salaris van mannen en vrouwen zullen wij ons voor de rest van dit onderwerp concentreren op het uurloon wanneer wij het over salaris hebben.
+In onderstaande tabel  is het uurloon van mannen en vrouwen zichtbaar per sector, in de laatste kolom zien we het uurloon van vrouwen als een percentage van het uurloon van mannen. Uit deze tabel blijkt dat er een flinke variatie is in de ongelijkheid van betaling. In de bedrijfstakken Waterbedrijven en afvalbeheer en Openbaar bestuur en overheidsdiensten is het uurloon voor mannen en vrouwen nagenoeg gelijk, ook in het Onderwijs is het verschil relatief laag met 5 procent. In Handel en Financiele dienstverlening zijn de verschillen het grootst, in deze bedrijfstakken verdienen vrouwen slechts 77% van wat mannen verdienen.
+
+$
+
+In onderstaand diagram zijn de uurlonen van mannen en vrouwen opgedeeld per leeftijdscategorie. We zien dat het verschil in uurloon onder de 35 jaar relatief klein is, vrouwen tussen 25 en 30 jaar verdienen zelfs meer dan mannen uit dezelfde leeftijdscategorie. Vanaf 35 jaar en ouder zien we de verschillen in uurloon echter steeds meer toenemen, de ongelijkheid in uurloon lijkt dus vooral te liggen in de verschillen tussen oudere werknemers. Een optimistische interpretatie van deze gegevens kan zijn dat jongere vrouwen een sterkere positie op de markt hebben veroverd ten opzichte van oudere vrouwen en dat de voordelen hiervan ook in de toekomst gereflecteerd zullen worden in hogere loongelijkheid. Er is ook een minder optimistische interpretatie mogelijk: In het begin van hun carriere verdienen vrouwen nagenoeg evenveel als mannen. Tijdens de ontwikkeling van hun carriere worden vrouwen echter steeds vaker overgeslagen voor promoties en salarisverhogingen waardoor zij steeds meer achterop raken bij hun mannelijke collega’s. 
+
+$
+
+Dit kan onder andere verband houden met de grotere hoeveelheid vrouwen die deeltijd werken ten opzichte van mannen. Als we kijken naar het uurloon per dienstverband (deeltijd of voltijd) per leeftijdscategorie is de ontwikkeling van uurloon tussen deeltijders en voltijders vergelijkbaar met die op basis van geslacht. Vrouwen werken in veel hogere mate deeltijd dan mannen, 77% van de vrouwen werkt deeltijd terwijl slechts 35% van de mannen deeltijd werkt. Maar zelfs als we corrigeren voor dienstverband blijft er een verschil in salaris tussen mannen en vrouwen. Mannen die deeltijd werken verdienen 22.40 Euro per uur terwijl vrouwen die deeltijd werken een uurloon van 22.15 hebben. Het verschil voor voltijders is aanzienlijk groter, mannen die voltijd werken verdienen gemiddeld 27.96 Euro per uur terwijl vrouwen 25.44 euro verdienen. Hiermee verdienen voltijd werkende vrouwen 91% van voltijd werkende mannen.
+
+
+
+
+

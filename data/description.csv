@@ -1,0 +1,83 @@
+,Key,Title,Description,CategoryGroupID
+0,T001081,A-U Alle economische activiteiten,Alle economische activiteiten exclusief T ‘Huishoudens’ en U ‘Extraterritoriale organisaties,5
+2,301000,"A Landbouw, bosbouw en visserij","Landbouw, bosbouw en visserij
+
+- de exploitatie van natuurlijke plantaardige en dierlijke hulpbronnen:
+- de akkerbouw, veeteelt en de productie van overige planten en dieren op een agrarisch bedrijf of in het natuurlijke leefgebied;
+- bosbouw, houtteelt en jacht;
+- specifieke loondiensten met betrekking tot het productieproces landbouw, jacht en bosbouw worden eveneens in deze sectie ingedeeld;
+- visserij: de vangst of het kweken van vis, schaaldieren en weekdieren.",7
+5,305700,B Delfstoffenwinning,"Winning van delfstoffen
+
+- de winning van in de natuur voorkomende mineralen in vaste vorm (steenkool, turf en erts), in vloeibare vorm (aardolie) of in de vorm van een gas (aardgas). Winning vindt plaats door middel van ondergrondse mijnbouw, dagbouw of boringen.",7
+6,307500,C Industrie,"Industrie
+
+- de mechanische, fysische of chemische verwerking van materialen, stoffen of onderdelen tot nieuwe producten. De verwerkte materialen, stoffen of onderdelen zijn grondstoffen uit de landbouw, bosbouw,visserij en mijnbouw, alsmede (half)fabricaten uit de industrie.
+- reparatie en installatie van machines, apparatuur en andere benodigdheden voor bedrijven (geen consumentengoederen).",7
+7,346600,D Energievoorziening,"Productie en distributie van en handel in elektriciteit, aardgas, stoom en gekoelde lucht
+
+- productie en distributie van en handel in elektriciteit, aardgas en warm water.",7
+8,348000,E Waterbedrijven en afvalbeheer,"Winning en distributie van water; afval- en afvalwaterbeheer en sanering 
+- winning en distributie van water;
+- afvalbehandeling en recycling.",7
+9,350000,F Bouwnijverheid,"Bouwnijverheid
+
+- algemene en gespecialiseerde bouwkundige en civieltechnische werken, de bouwinstallatie en de afwerking van gebouwen.
+Zij omvat ook nieuwbouw, reparatie, aan- en verbouwwerkzaamheden, het optrekken van geprefabriceerde gebouwen of constructies ter plaatse en van tijdelijke bouwwerken.",7
+12,354200,G Handel,"Groot- en detailhandel; reparatie van auto's
+ 
+- de groot- en detailhandel (verkoop zonder aanbrengen van veranderingen) in alle soorten goederen en de diensten die bij de verkoop van goederen worden verleend;
+- tussenhandel/handelsbemiddeling;
+- reparatie van auto's en motoren.",7
+13,383100,H Vervoer en opslag,"Vervoer en opslag
+
+- het vervoer van personen of goederen, al dan niet volgens een dienstregeling, per spoor, via een pijpleiding, over de weg, over water of door de lucht;
+- de ondersteunende activiteiten als terminal- en parkeerfaciliteiten, vrachtbehandeling, opslag enz.;
+- de posterijen;
+- de verhuur van transportmiddelen met bestuurder of bedienend personeel.",7
+14,389100,I Horeca,"Logies-, maaltijd- en drankverstrekking
+
+- het aan gasten verschaffen van logies en/of bereide maaltijden, snacks en dranken voor onmiddellijke consumptie. ",7
+15,391600,J Informatie en communicatie,"Informatie en communicatie
+
+- de productie en distributie van informatie, de voorziening van de infrastructuur om die informatie door te geven, alsmede activiteiten op het gebied van data- en communicatie-informatietechnologie en het bewerken van data en andere informatie.",7
+16,396300,K Financiële dienstverlening,"Financiële instellingen
+
+- financiële instellingen;
+- verzekeringswezen en pensioenfondsen (geen verplichte sociale verzekeringen);
+- financiële beurzen, effectenmakelaars, assurantietussenpersonen, administratiekantoren voor aandelen, waarborgfondsen en dergelijke.",7
+17,402000,L Verhuur en handel van onroerend goed,"Verhuur van en handel in onroerend goed
+ 
+- verhuur van onroerend goed;
+- bemiddeling in en beheer van onroerend goed.",7
+19,403300,M Specialistische zakelijke diensten,"Advisering, onderzoek en overige specialistische zakelijke dienstverlening
+ 
+- gespecialiseerde professionele wetenschappelijke en technische activiteiten. Deze activiteiten vereisen een hoge opleiding en stellen specifieke kennis ter beschikking.",7
+20,410200,N Verhuur en overige zakelijke diensten,"Verhuur van roerende goederen en overige zakelijke dienstverlening
+
+- activiteiten die zakelijke gebruikers ondersteunen bij de bedrijfsvoering. Het verschil van deze activiteiten met die uit sectie M is dat de activiteiten uit deze sectie niet primair gericht zijn op het overbrengen van expertise en kennis.",7
+23,417400,O Openbaar bestuur en overheidsdiensten,"Openbaar bestuur, overheidsdiensten en verplichte sociale verzekeringen
+
+- eenheden die deel uitmaken van de lagere of centrale overheid en die tot een goede werking van het bestuur van de samenleving bijdragen en ook het beheer van de verplichte sociale verzekeringsregelingen;
+- defensie, justitie, politie, buitenlandse zaken enzovoort;
+- het algemeen openbaar bestuur (bijvoorbeeld uitvoerende, wetgevende, financiële taken enzovoort op alle bestuursniveaus) en het toezicht op het economische en sociale leven;
+- provincies en gemeentes;
+- het beheer van de verplichte sociale verzekeringsregelingen.",7
+24,419000,P Onderwijs,"Onderwijs
+
+- alle vormen van openbaar en particulier onderwijs, op elk niveau en voor elk beroep. Zowel het onderwijs door de instellingen op de verschillende niveaus van het normale schoolstelsel als volwasseneneducatie, alfabetiseringsprogramma's e.d.
+- Volwasseneneducatie waarvan de inhoud vergelijkbaar is met die van het onderwijs op een specifiek niveau wordt bij dat niveau ingedeeld. Op ieder niveau van het initiële onderwijs omvatten de klassen het speciale onderwijs aan lichamelijk of geestelijk gehandicapte leerlingen.
+- het overige onderwijs, zoals autorijscholen.",7
+25,422400,Q Gezondheids- en welzijnszorg,"Gezondheids- en welzijnszorg
+
+- behandeling in algemene en gespecialiseerde ziekenhuizen;
+- geestelijke gezondheidszorg en verslavingszorg, eventueel in combinatie met overnachting;
+- behandeling door medische en paramedische praktijken;
+- ondersteunende activiteiten voor de gezondheidszorg, door bijvoorbeeld laboratoria en ambulancediensten;
+- verpleging, verzorging of begeleiding met huisvesting door bijvoorbeeld verpleeg- en verzorgingshuizen of via begeleid wonen;
+- welzijnszorg, zoals thuiszorg, lokaal welzijnswerk en hulp aan gehandicapten en ouderen;
+- kinderopvang.",7
+27,428100,"R Cultuur, sport en recreatie","Cultuur, sport en recreatie
+Deze sectie omvat een wijde range aan activiteiten op het gebied van cultuur en recreatie, zoals culturele voorstellingen, musea, sport en recreatieve evenementen.",7
+28,435500,S Overige dienstverlening,"Overige dienstverlening
+Deze sectie omvat (als restcategorie) de activiteiten van belangenverenigingen, reparatie van computers en consumentenartikelen en veel andere activiteiten op het gebied van persoonlijke dienstverlening die niet elders zijn ingedeeld.",7
