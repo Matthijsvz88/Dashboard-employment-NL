@@ -7,13 +7,15 @@ import json
 import pandas as pd
 import functions
 from dash import callback
+from dash import ctx
 
 dash.register_page(__name__, path='/',
                    name='Dashboard Werknemers Nederland')  # registering the page to connect to main page
 
+date_header = html.Div(["Gebaseerd op data tot 31-12-2022",html.Br()], id = 'date-header')
 link = 'https://opendata.cbs.nl/portal.html?_la=nl&_catalog=CBS&tableId=81431ned&_theme=6'
-source = html.Div(["bron: ", dcc.Link('CBS Open Data Statline', href=link, target="_blank")], id='source-link',
-                  style={'grid-area': 'header'})
+source = html.Div(["bron: ", dcc.Link('CBS Open Data Statline', href=link, target="_blank")], id='source-link')
+dashboardheader = html.Div([date_header, source],  id = 'dash-header')
 
 worksum = pd.read_csv('data/worksum.csv')
 description = pd.read_csv('data/description.csv')['Description']
@@ -45,16 +47,22 @@ parameter = 'Aantal Banen'
 kenmerk = 'Geslacht'
 kenmerks = None
 
+f =  open('data/text.txt')
+datatext = f.read()
+
 # creating the canvas that contains the filters for the dashboard
 offcanvas = html.Div(
     [
         dbc.Button("Filters", id="open-offcanvas", n_clicks=0),
         dbc.Offcanvas([
-            html.H6('Selecteer Branche:', className='canvasheader'), industrydropdown,
+            html.H6('Selecteer Bedrijfstak:', className='canvasheader'), industrydropdown,
             html.H6('Selecteer Parameter:', className='canvasheader'), parameterdropdown,
             html.H6('Selecteer Kenmerk:', className='canvasheader'), catdropdown,
             specdropdown,
-            html.Hr(style={'color': 'white'})],
+            html.Hr(style={'color': 'white'}),
+            html.H6('Tips', className='canvasheader'),
+            dcc.Markdown(datatext.split('$')[9], id = 'texttip')
+            ],
             id="offcanvas",
             title="Filters:",
             is_open=False
@@ -78,10 +86,10 @@ lineheader = html.H1("Ontwikkeling per Jaar", className='header')
 linediv = html.Div([lineheader, line], id='line_div')
 
 bars = dcc.Graph(figure=functions.create_bars(parameter, sector, kenmerks), id='bar_industry')
-bars_header = html.H6("Verdeling per Branche", className='header')
+bars_header = html.H6("Verdeling per Bedrijfstak", className='header')
 bardiv = html.Div([bars_header, bars], id='industry_bar_div')
 
-container = html.Div([source, offcanvas, table, catdiv, pie, linediv, bardiv], id='container')
+container = html.Div([dashboardheader, offcanvas, table, catdiv, pie, linediv, bardiv], id='container')
 
 layout = html.Div(container)
 
@@ -111,8 +119,7 @@ def change_sector_picker(clickData):
             sector = 'K Financiële dienstverlening'  # dash doesnt properly read values with special signs.
     return sector
 
-
-@callback(  # function to update all figures
+@callback(  # function to update pie
     Output("pie_sector", "figure"),
     [Input('industry-picker', 'value'),
      Input('spec-picker', 'value')])
@@ -129,7 +136,7 @@ def change_industry_bar(industry, parameter, kenmerks):
     return functions.create_bars(parameter, industry, kenmerks)
 
 
-@callback(  # function to update all figures
+@callback(  # function to update line and category bar
     Output('line_sector', "figure"),
     Output('category_bar', "figure"),
     [Input('industry-picker', 'value'),
@@ -139,15 +146,18 @@ def change_category_figures(industry, parameter, category):
     return functions.create_line(industry, parameter, category), functions.make_bars_category(industry, category,
                                                                                               parameter)
 
-
 @callback(  # spec-pickers values are dependent on category dropdown. function to update options in spec picker
     Output('spec-picker', "options"),
     Output('spec-picker', "value"),
-    Input('category-picker', 'value'))
-def change_dropdown(category):
+    [Input('category-picker', 'value'),
+    Input('category_bar', 'clickData')])
+def change_dropdown(category, clickData):
+    value = None
+    if ctx.triggered_id == 'category_bar':
+        value = json.dumps(clickData['points'][0]['label']).replace('"', '')
     labels = worksum[worksum.CategoryGroupID_Kenmerken == catdict[category]]['Kenmerken'].unique()
     speclabels = [{'label': k, 'value': k} for k in labels]
-    return speclabels, None
+    return speclabels, value
 
 
 @callback(  # function to highlight selected industry in industry table

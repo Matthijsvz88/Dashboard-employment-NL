@@ -41,6 +41,10 @@
 	font-size: 10px
 }
 
+#dash-header {
+    grid-area: header;
+    text-align: right
+}
 
 #open-offcanvas {
 	background-color: #212529;
@@ -49,9 +53,12 @@
 	width:100px;
 	margin-left:10px;
 	margin-top:5px;
-	float:right
+	float:left
 }
 
+#texttip {
+font-size :10px
+}
 
 #offcanvas {
 	background-color: #212529; 
@@ -90,21 +97,44 @@
 #pie_sector {
 	height:38vh;
 	grid-area: pie;
-	margin:25px 5px 5px 10px
+	margin:25px 5px 5px 10px;
+	padding-top: 5px;
+	border: 1px solid;
+	border-color: #DCDCDC;
+	border-radius: 10px;
+	overflow: hidden;
+	background-color: white;
 }
 
 #bar_industry {
-	height:calc(40vh - 30px);
+	height:calc(40vh - 37px);
+	padding-bottom: 0px;
+	border: 1px solid;
+	border-color: #DCDCDC;
+	border-radius: 0px 0px 10px 10px;
+	overflow: hidden;
+}
+
+#bar_industry > div.js-plotly-plot .plotly .cursor-crosshair {
+    cursor: pointer;
+}
+
+#category_bar > div.js-plotly-plot .plotly .cursor-crosshair {
+    cursor: pointer;
 }
 
 #industry_bar_div {
 	grid-area:bars;
-	padding-top:20px
+	padding-top:20px;
 }
 
 #line_sector {
 	height:calc(45vh - 30px); 
-	padding-top:3px
+	padding-top:3px;
+	border: 1px solid;
+	border-color: #DCDCDC;
+	border-radius: 0px 0px 10px 10px;
+	overflow: hidden;
 }
 
 #line_div {
@@ -112,7 +142,11 @@
 }
 
 #category_bar {
-	height:calc(45vh - 30px)
+	height:calc(45vh - 30px);
+	border: 1px solid;
+	border-color: #DCDCDC;
+	border-radius: 0px 0px 10px 10px;
+	overflow: hidden;
 }
 
 #category-bar-div {
@@ -127,8 +161,8 @@
 #container {
 	display: grid;
 	grid-template-areas: 
-	"header header offcanvas" 
-	"pie bars bars" 
+	"offcanvas offcanvas header "
+	"pie bars bars"
 	"line line table" 
 	"catbar catbar table";
 	grid-template-columns: 25vw 20vw 50vw;
@@ -145,12 +179,14 @@
 	white-space: pre-line;
     margin:auto;
 	padding-left:20%;
-	padding-right:20%
+	padding-right:20%;
 }
 
 #industry-bars-2 {
 	margin-left: auto; 
-	margin-right: auto; 
+	margin-right: auto;
+	padding-bottom: 0px;
+	height:50vh;
 	width:75vw; 
 	max-width:1500px
 }
